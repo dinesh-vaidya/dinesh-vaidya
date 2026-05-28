@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinesh-vaidya
 - 👀 I’m interested in web development and android app development
-- 🌱 I’m currently learning to create next.js app
+- 🌱 I’m currently trying to build something useful to everyone with zero charges
 - 💞️ I’m one man team, I never got chance to work in team, so have no experience in working in a team
 - 📫 How to reach me d4dinesh@gmail.com
 
